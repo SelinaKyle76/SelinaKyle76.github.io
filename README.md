@@ -1,7 +1,4 @@
 <HTML>
-<TITLE>
-Test
-</TITLE>
 <BODY>
 Hello world! This is my first ever website.
 </BODY>
