@@ -1,8 +1,14 @@
 <HTML>
+
+
 <BODY>
 Hello world! This is my first ever website.
 </BODY>
+</HTML>
 
+---
+layout: default
+---
 
 # [](#header-1)About GitHub
 
@@ -15,6 +21,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 > This website is part of my assessment for Programming for Geographical Information Analysts: Core Skills.
 > https://courses.leeds.ac.uk/26145/MSc_Geographical_Information_Systems_(Open_Distance_Learning)_(WUN)
 > Here is the link to my python code https://github.com/SelinaKyle76/Assessment_1
+
 <dl>
 <dt>Name</dt>
 <dd>Lesley</dd>
